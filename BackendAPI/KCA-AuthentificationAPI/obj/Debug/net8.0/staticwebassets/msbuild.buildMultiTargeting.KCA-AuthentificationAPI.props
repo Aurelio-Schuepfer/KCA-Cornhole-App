@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KCA-AuthentificationAPI.props" />
+</Project>

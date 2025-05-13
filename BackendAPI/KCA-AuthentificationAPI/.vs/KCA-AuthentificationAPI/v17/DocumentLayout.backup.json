@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\data\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:data\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\data\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:data\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-authentificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499FB81F-4306-4164-9475-71FA14BF8BE5}|KCA-AuthentificationAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\AuthService.cs",
+              "RelativeDocumentMoniker": "Data\\AuthService.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\AuthService.cs",
+              "RelativeToolTip": "Data\\AuthService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:14:15.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T06:00:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:58:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:58:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:55:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\TokenService.cs",
+              "RelativeDocumentMoniker": "Data\\TokenService.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\TokenService.cs",
+              "RelativeToolTip": "Data\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:51:33.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:14:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:05:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T09:04:24.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:57:32.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:54:54.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

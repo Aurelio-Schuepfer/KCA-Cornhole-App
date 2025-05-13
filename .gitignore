@@ -1,0 +1,44 @@
+# === Angular ===
+/dist
+/tmp
+/out-tsc
+/bazel-out
+/node_modules
+/.angular/cache
+
+# === .NET Core ===
+bin/
+obj/
+*.user
+*.suo
+
+# === IDEs ===
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# === VSCode ===
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# === Logs ===
+npm-debug.log
+yarn-error.log
+connect.lock
+/libpeerconnection.log
+testem.log
+
+# === Sonstiges ===
+.sass-cache/
+/coverage
+/typings
+.DS_Store
+Thumbs.db
+.history/

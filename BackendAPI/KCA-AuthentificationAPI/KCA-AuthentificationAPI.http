@@ -1,0 +1,6 @@
+@KCA_AuthentificationAPI_HostAddress = http://localhost:5293
+
+GET {{KCA_AuthentificationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RfCaFdTzrfnDTCJrSYim7UM9WNN5ncloS9u9bkjksMQ=",
+  "Source": "KCA-AuthentificationAPI",
+  "BasePath": "_content/KCA-AuthentificationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
