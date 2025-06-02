@@ -7,13 +7,12 @@ namespace KCA_AuthentificationAPI.Data
     {
         public AppDbContext CreateDbContext(string[] args)
         {
-            var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
-
             var config = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
                 .Build();
 
+            var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
             var connectionString = config.GetConnectionString("DefaultConnection");
 
             optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));

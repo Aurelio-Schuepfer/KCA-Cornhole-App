@@ -14,15 +14,15 @@ public class AuthService
         _passwordHasher = new PasswordHasher<AppUser>();
     }
 
-    public async Task<bool> RegisterAsync(string username, string email, string password)
+    public async Task<bool> RegisterAsync(string UserName, string email, string password)
     {
-        var exists = await _context.Users.AnyAsync(u => u.Username == username || u.Email == email);
+        var exists = await _context.Users.AnyAsync(u => u.UserName == UserName || u.Email == email);
         if (exists) return false;
 
         var user = new AppUser
         {
             Id = Guid.NewGuid(),
-            Username = username,
+            UserName = UserName,
             Email = email
         };
 
@@ -34,9 +34,9 @@ public class AuthService
         return true;
     }
 
-    public async Task<AppUser?> ValidateUserAsync(string username, string password)
+    public async Task<AppUser?> ValidateUserAsync(string UserName, string password)
     {
-        var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
+        var user = await _context.Users.FirstOrDefaultAsync(u => u.UserName == UserName);
         if (user == null) return null;
 
         var result = _passwordHasher.VerifyHashedPassword(user, user.PasswordHash, password);

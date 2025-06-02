@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("040bb361-7c62-4f0f-87e0-93e09dba87cd")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("KCA-AuthentificationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e30c732ab89ae8278d0c02e70d845d19a2007d36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987333b77ea9ec6943766f82bce63a9adb352450")]
 [assembly: System.Reflection.AssemblyProductAttribute("KCA-AuthentificationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KCA-AuthentificationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

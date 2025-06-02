@@ -24,9 +24,9 @@ namespace KCA_AuthentificationAPI.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] RegisterRequest registerRequest)
+        public async Task<IActionResult> Register([FromBody] AppRegisterRequest registerRequest)
         {
-            var user = new AppUser { Username = registerRequest.Username, Email = registerRequest.Email };
+            var user = new AppUser { UserName = registerRequest.UserName, Email = registerRequest.Email };
             var result = await _userManager.CreateAsync(user, registerRequest.Password);
 
             if (!result.Succeeded)
@@ -39,11 +39,11 @@ namespace KCA_AuthentificationAPI.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginRequest request)
+        public async Task<IActionResult> Login([FromBody] AppLoginRequest request)
         {
             try
             {
-                var user = await _userManager.FindByNameAsync(request.Username);
+                var user = await _userManager.FindByNameAsync(request.UserName);
                 if (user == null)
                     return Unauthorized("Ungültiger Benutzername oder Passwort.");
 
@@ -63,6 +63,6 @@ namespace KCA_AuthentificationAPI.Controllers
 
         [HttpGet("secure-data")]
         [Authorize]
-        public IActionResult GetSecureData() => Ok("This is a protected data only accessible by logged-in users.");
+        public IActionResult GetSecureData() => Ok("Log in to Create or Join a Tournament");
     }
 }
