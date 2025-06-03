@@ -1,4 +1,5 @@
-﻿using KCA_AuthentificationAPI.Data;
+﻿//Ist nicht mehr nötig, da AuthService in der Startup.cs registriert wird
+using KCA_AuthentificationAPI.Data;
 using KCA_AuthentificationAPI.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

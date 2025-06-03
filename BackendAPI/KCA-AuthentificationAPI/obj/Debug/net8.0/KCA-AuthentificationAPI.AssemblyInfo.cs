@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KCA-AuthentificationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987333b77ea9ec6943766f82bce63a9adb352450")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e79976b04eb01390eafd02b9c44366df63fe98")]
 [assembly: System.Reflection.AssemblyProductAttribute("KCA-AuthentificationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KCA-AuthentificationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

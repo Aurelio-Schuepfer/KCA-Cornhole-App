@@ -1,4 +1,5 @@
-﻿using KCA_AuthentificationAPI.Data;
+﻿//Zuständig um alle Datenbank migrationen beim Start der Web-App anzuwenden
+using KCA_AuthentificationAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace AspNetCore.Identity.Extensions;

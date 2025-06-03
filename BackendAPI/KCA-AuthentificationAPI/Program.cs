@@ -1,10 +1,11 @@
-﻿using AspNetCore.Identity.Extensions;
-using AspNetCoreRateLimit;
+﻿//Start der Web-App und Konfiguration der Services
+using AspNetCore.Identity.Extensions;
+using AspNetCoreRateLimit; //für Rate Limiting, um die Anzahl der Anfragen pro IP-Adresse zu begrenzen
 using KCA_AuthentificationAPI.Data;
 using KCA_AuthentificationAPI.Models;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using Microsoft.AspNetCore.Identity; //für ASP.NET Core Identity, um Benutzer zu verwalten
+using Microsoft.EntityFrameworkCore; //für Entity Framework Core Unterstützung, Entity Framework Core ist ein ORM (Object-Relational Mapper) für .NET
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure; //für MySQL Unterstützung
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +29,11 @@ builder.Services.AddIdentity<AppUser, IdentityRole<Guid>>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
+// E-Mail Einstellungen und E-Mail Sender hinzufügen
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+builder.Services.AddSingleton(sp =>
+    sp.GetRequiredService<Microsoft.Extensions.Options.IOptions<EmailSettings>>().Value);
+builder.Services.AddSingleton<IEmailSender<AppUser>, MailKitEmailSender>();
 
 // Controller und Swagger hinzufügen
 builder.Services.AddControllers();
@@ -51,8 +57,6 @@ builder.WebHost.ConfigureKestrel(options =>
 
 builder.Services.AddScoped<TokenService>();
 builder.Services.AddSingleton<TimeProvider>(TimeProvider.System);
-builder.Services.AddSingleton<IEmailSender<AppUser>, DummyEmailSender>();
-
 
 var app = builder.Build();
 

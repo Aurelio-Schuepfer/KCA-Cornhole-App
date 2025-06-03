@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿//Loginmodell für das Frontend
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace KCA_AuthentificationAPI.Models
 {
