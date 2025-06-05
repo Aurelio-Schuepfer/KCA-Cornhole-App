@@ -63,7 +63,7 @@ namespace KCA_AuthentificationAPI.Controllers
             if (!result.Succeeded)
                 return Unauthorized("Invalid username/email or password.");
 
-            var token = _tokenService.CreateToken(user);
+            var token = _tokenService.CreateToken(user, request.RememberMe); 
             return Ok(new { Token = token });
         }
 
@@ -105,6 +105,7 @@ namespace KCA_AuthentificationAPI.Controllers
         {
             if (string.IsNullOrWhiteSpace(request.Email))
                 return BadRequest(new { error = "EMAIL_REQUIRED" });
+
 
             var user = await _userManager.FindByEmailAsync(request.Email);
             if (user == null || !(await _userManager.IsEmailConfirmedAsync(user)))

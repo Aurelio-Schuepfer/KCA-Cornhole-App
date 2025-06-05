@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hXLe51s0QDc=",
+  "dgSpecHash": "JRT9JtyPANc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aus\\source\\Projekte\\kca-cornhole-app\\backendapi\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj",
+  "projectFilePath": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aus\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\aus\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",

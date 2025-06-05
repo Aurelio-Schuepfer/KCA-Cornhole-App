@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aus\\source\\Projekte\\kca-cornhole-app\\backendapi\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj": {}
+    "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aus\\source\\Projekte\\kca-cornhole-app\\backendapi\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj": {
+    "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aus\\source\\Projekte\\kca-cornhole-app\\backendapi\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj",
         "projectName": "KCA-AuthentificationAPI",
-        "projectPath": "C:\\Users\\aus\\source\\Projekte\\kca-cornhole-app\\backendapi\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj",
+        "projectPath": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\KCA-AuthentificationAPI.csproj",
         "packagesPath": "C:\\Users\\aus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aus\\source\\Projekte\\kca-cornhole-app\\backendapi\\KCA-AuthentificationAPI\\obj\\",
+        "outputPath": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-AuthentificationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

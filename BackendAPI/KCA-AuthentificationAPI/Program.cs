@@ -11,23 +11,30 @@ var builder = WebApplication.CreateBuilder(args);
 
 // DB Context hinzufügen
 builder.Services.AddDbContext<AppDbContext>(options =>
-     options.UseMySql(
-         builder.Configuration.GetConnectionString("DefaultConnection"),
-         ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")),
-         mySqlOptions => mySqlOptions.SchemaBehavior(MySqlSchemaBehavior.Ignore)
-     ));
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")),
+        mySqlOptions => mySqlOptions.SchemaBehavior(MySqlSchemaBehavior.Ignore)
+    ));
 
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
         builder.AllowAnyOrigin()
-               .AllowAnyMethod()
-               .AllowAnyHeader());
+            .AllowAnyMethod()
+            .AllowAnyHeader());
 });
 
 builder.Services.AddIdentity<AppUser, IdentityRole<Guid>>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
+
+    builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNameCaseInsensitive = true;
+    });
+
 
 // E-Mail Einstellungen und E-Mail Sender hinzufügen
 builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
@@ -36,13 +43,14 @@ builder.Services.AddSingleton(sp =>
 builder.Services.AddSingleton<IEmailSender<AppUser>, MailKitEmailSender>();
 
 // Controller und Swagger hinzufügen
-builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Rate Limiting
 builder.Services.AddInMemoryRateLimiting();
 builder.Services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>();
+
+builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
 
 // MVC hinzufügen
 builder.Services.AddMvc();
@@ -71,11 +79,8 @@ if (app.Environment.IsDevelopment())
 }
 app.UseHttpsRedirection();
 
-
-// Rate Limiting anwenden
 app.UseIpRateLimiting();
 
-// Autorisierung und Controller-Mapping
 app.UseAuthorization();
 app.MapControllers();
 app.MapIdentityApi<AppUser>();

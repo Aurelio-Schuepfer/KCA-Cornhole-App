@@ -8,5 +8,6 @@ namespace KCA_AuthentificationAPI.Models
         public string UserName { get; set; }
         [Column(TypeName = "longtext")]
         public string Password { get; set; }
+        public bool RememberMe { get; set; }
     }
 }
