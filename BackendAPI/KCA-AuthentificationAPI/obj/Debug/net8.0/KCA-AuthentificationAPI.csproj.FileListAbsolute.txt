@@ -128,3 +128,4 @@ C:\Users\aus\source\Projekte\KCA-Cornhole-App\BackendAPI\KCA-AuthentificationAPI
 C:\Users\aus\source\Projekte\KCA-Cornhole-App\BackendAPI\KCA-AuthentificationAPI\obj\Debug\net8.0\KCA-AuthentificationAPI.pdb
 C:\Users\aus\source\Projekte\KCA-Cornhole-App\BackendAPI\KCA-AuthentificationAPI\obj\Debug\net8.0\KCA-AuthentificationAPI.genruntimeconfig.cache
 C:\Users\aus\source\Projekte\KCA-Cornhole-App\BackendAPI\KCA-AuthentificationAPI\obj\Debug\net8.0\ref\KCA-AuthentificationAPI.dll
+C:\Users\aus\source\Projekte\KCA-Cornhole-App\BackendAPI\KCA-AuthentificationAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
