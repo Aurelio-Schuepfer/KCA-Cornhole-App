@@ -1,0 +1,6 @@
+@KCA_TournamentAPI_HostAddress = http://localhost:5245
+
+GET {{KCA_TournamentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

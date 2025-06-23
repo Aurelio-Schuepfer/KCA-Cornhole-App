@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\controllers\\bracketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:controllers\\bracketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\tournamentstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\tournamentstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\teamstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\teamstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\participantstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\participantstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\bracket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\bracket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|c:\\users\\aus\\source\\projekte\\kca-cornhole-app\\backendapi\\kca-tournamentapi\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AFF32E-A86D-497F-AD96-762CC9017AC7}|KCA-TournamentAPI.csproj|solutionrelative:models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:26:29.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TournamentsController.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "Controllers\\TournamentsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwJIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:29:57.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TournamentStats.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\TournamentStats.cs",
+              "RelativeDocumentMoniker": "Models\\TournamentStats.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\TournamentStats.cs",
+              "RelativeToolTip": "Models\\TournamentStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:14:07.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamStats.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\TeamStats.cs",
+              "RelativeDocumentMoniker": "Models\\TeamStats.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\TeamStats.cs",
+              "RelativeToolTip": "Models\\TeamStats.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:13:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParticipantStats.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\ParticipantStats.cs",
+              "RelativeDocumentMoniker": "Models\\ParticipantStats.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\ParticipantStats.cs",
+              "RelativeToolTip": "Models\\ParticipantStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:12:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bracket.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Bracket.cs",
+              "RelativeDocumentMoniker": "Models\\Bracket.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Bracket.cs",
+              "RelativeToolTip": "Models\\Bracket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:09:21.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Tournament.cs",
+              "RelativeToolTip": "Models\\Tournament.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:40:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Participant.cs",
+              "RelativeToolTip": "Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:47:33.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:44:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Controllers\\TeamsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:35:08.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Controllers\\MatchesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:36:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BracketsController.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\BracketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BracketsController.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Controllers\\BracketsController.cs",
+              "RelativeToolTip": "Controllers\\BracketsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:37:14.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T16:33:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T16:33:50.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:03:15.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:48:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Partner.cs",
+              "RelativeDocumentMoniker": "Models\\Partner.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Partner.cs",
+              "RelativeToolTip": "Models\\Partner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:42:32.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sponsor.cs",
+              "DocumentMoniker": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Sponsor.cs",
+              "RelativeDocumentMoniker": "Models\\Sponsor.cs",
+              "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Models\\Sponsor.cs",
+              "RelativeToolTip": "Models\\Sponsor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:41:46.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

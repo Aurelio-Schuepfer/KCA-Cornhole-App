@@ -63,7 +63,7 @@ namespace KCA_AuthentificationAPI.Controllers
             if (!result.Succeeded)
                 return Unauthorized("Invalid username/email or password.");
 
-            var token = _tokenService.CreateToken(user, request.RememberMe); 
+            var token = _tokenService.CreateToken(user, request.RememberMe);
             return Ok(new { Token = token });
         }
 
