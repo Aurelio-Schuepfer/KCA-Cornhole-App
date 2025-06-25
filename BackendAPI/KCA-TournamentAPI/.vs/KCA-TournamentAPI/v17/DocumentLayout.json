@@ -94,8 +94,7 @@
               "RelativeToolTip": "Controllers\\TournamentsController.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAqwJEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T08:29:57.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T08:29:57.347Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "Models\\ParticipantStats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T07:12:35.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T07:12:35.571Z"
             },
             {
               "$type": "Document",
@@ -156,8 +154,7 @@
               "RelativeToolTip": "Models\\Tournament.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:40:16.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:40:16.607Z"
             },
             {
               "$type": "Document",
@@ -169,8 +166,7 @@
               "RelativeToolTip": "Models\\Participant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:47:33.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:47:33.606Z"
             },
             {
               "$type": "Document",
@@ -180,7 +176,7 @@
               "RelativeDocumentMoniker": "Data\\DbContext.cs",
               "ToolTip": "C:\\Users\\aus\\source\\Projekte\\KCA-Cornhole-App\\BackendAPI\\KCA-TournamentAPI\\Data\\DbContext.cs",
               "RelativeToolTip": "Data\\DbContext.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T06:44:10.937Z",
               "EditorCaption": ""
@@ -219,8 +215,7 @@
               "RelativeToolTip": "Models\\Sponsor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:41:46.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:41:46.908Z"
             },
             {
               "$type": "Document",
@@ -232,8 +227,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T12:26:29.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T12:26:29.703Z"
             },
             {
               "$type": "Document",
@@ -293,8 +287,7 @@
               "RelativeToolTip": "Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T06:48:31.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:48:31.656Z"
             },
             {
               "$type": "Document",
