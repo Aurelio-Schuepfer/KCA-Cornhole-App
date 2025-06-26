@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Iht6QNB60H1ERpjWhnTf+YexRlT6DpkU9VJP45ZJTsE=",
+  "Source": "KCA-TournamentAPI",
+  "BasePath": "_content/KCA-TournamentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

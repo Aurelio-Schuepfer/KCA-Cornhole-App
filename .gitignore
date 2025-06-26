@@ -1,44 +1,19 @@
-# === Angular ===
-/dist
-/tmp
-/out-tsc
-/bazel-out
-/node_modules
-/.angular/cache
+# Ignore for Angular frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/
+/frontend/.env
 
-# === .NET Core ===
-bin/
-obj/
-*.user
-*.suo
+# Ignore for ASP.NET backend
+/backend/bin/
+/backend/obj/
+/backend/*.user
+/backend/*.vs
+/backend/appsettings.*.json
 
-# === IDEs ===
-.idea/
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# === VSCode ===
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-# === Logs ===
-npm-debug.log
-yarn-error.log
-connect.lock
-/libpeerconnection.log
-testem.log
-
-# === Sonstiges ===
-.sass-cache/
-/coverage
-/typings
+# General
+*.log
+*.tmp
+.vscode/
+.env
 .DS_Store
-Thumbs.db
-.history/

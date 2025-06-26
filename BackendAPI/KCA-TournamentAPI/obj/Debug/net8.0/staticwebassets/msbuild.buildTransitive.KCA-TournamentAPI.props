@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KCA-TournamentAPI.props" />
+</Project>
